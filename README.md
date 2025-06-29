@@ -29,3 +29,15 @@ Year-over-year sales trends for various segments and car types.
 
 I**nteractive Filters (Slicers)**
 Use filters like Price Range, Year Group, Brand, Car Type, Ownership, and State to dynamically explore the data.
+
+
+![Screenshot 2025-06-29 185304](https://github.com/user-attachments/assets/3b13991a-2e48-44e9-8b59-5ba42c5b78e9)
+
+![Screenshot 2025-06-29 180125](https://github.com/user-attachments/assets/31015e66-66f8-4029-bff6-4f29b3d18ae7)
+
+![Screenshot 2025-06-29 181333](https://github.com/user-attachments/assets/aae8d8fd-991f-41c8-b834-25cf1338576f)
+
+![Screenshot 2025-06-29 185304](https://github.com/user-attachments/assets/cf74d724-1d35-4d8e-8337-169e1db7fa57)
+
+
+
